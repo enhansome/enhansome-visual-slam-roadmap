@@ -1,0 +1,332 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Table of Contents"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Level 1: Beginner"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Level 2: Getting Familiar with SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Certifiably Optimal Algorithms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Gaussian Belief Propagation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Level 3: Monocular Visual-SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Feature-based SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Direct SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Semi-direct (Hybrid)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SfM Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Dynamic Environment SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Level 4: RGB-D Visual-SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Level 5: Applying Deep Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "A. Deep Frontend — Perception"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Feature Detection & Matching"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Depth Estimation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Optical Flow & Scene Flow"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Camera Pose Regression & Relocalization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Object Detection & Segmentation for SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "B. Deep Backend — Optimization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Differentiable Bundle Adjustment"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "C. End-to-End Deep VO / SLAM Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Self-supervised & Learned VO"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning-based SLAM Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Latent Representation SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Neural Rendering (reference)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "D. Scene Understanding"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Benchmarks & Foundations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3D Scene Graph"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Semantic / Language-Grounded SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "E. Foundation-Model & Neural-Representation SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Foundation-Model SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "NeRF-based"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "3DGS-based"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Level 6: VIO / VINS"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Foundations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Filter-based"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Optimization-based"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Level 7: Stereo SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Level 8: Collaborative / Multi-Robot SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Level 9: LiDAR & Visual-LiDAR Fusion SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "LiDAR / LiDAR-Inertial SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Visual-LiDAR Fusion SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Level 10: Event Camera SLAM"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Foundations"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Systems"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Level 11: World Models & Spatial AI"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "World Models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Generative 3D"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vision-Language Models (VLM)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vision-Language-Action Models (VLA)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Study Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "YouTube Lecture Series"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Surveys"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Code & Practice"
+    },
+    {
+      "description": "If you think any part of the roadmap can be improved, please open a PR or submit an issue. I will continue to improve this, so you may want to watch/star this repository and revisit it later.",
+      "items": [],
+      "title": "Wrap Up"
+    },
+    {
+      "description": "To discuss any topics or ask questions, please use the issue tab.",
+      "items": [],
+      "title": "Discussion"
+    },
+    {
+      "description": "This project is licensed under the MIT License:\nCopyright © 2026 Hyunggi Chang.\nPermission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:\nThe above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:23:09.612Z",
+    "original_repository": "changh95/visual-slam-roadmap",
+    "original_repository_sha": "e0990905282841c8190a1b172cf5e633af3fa62d",
+    "enhanced_repository": "enhansome/enhansome-visual-slam-roadmap",
+    "enhanced_repository_description": null,
+    "title": "Awesome Visual-SLAM Developer Roadmap - 2026 with stars"
+  }
+}
