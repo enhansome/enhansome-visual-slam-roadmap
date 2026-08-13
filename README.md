@@ -204,7 +204,7 @@ I made this roadmap to share my thoughts and experience on studying Visual-SLAM,
 * **[IMU](level-02-getting-familiar/imu.md)** → VIO
 * **[RADAR](level-02-getting-familiar/radar.md)** → [Sensor](level-02-getting-familiar/camera-device.md) fusion, [Extended Kalman filter](level-02-getting-familiar/extended-kalman-filter.md)
 * **[Sonar](level-02-getting-familiar/sonar.md)**
-* **[Multi-sensor calibration](level-02-getting-familiar/multi-sensor-calibration.md)**: Camera-IMU, Camera-LiDAR ([Kalibr](https://github.com/ethz-asl/kalibr) ⭐ 5,635 | 🐛 134 | 🌐 C++ | 📅 2024-03-30)
+* **[Multi-sensor calibration](level-02-getting-familiar/multi-sensor-calibration.md)**: Camera-IMU, Camera-LiDAR ([Kalibr](https://github.com/ethz-asl/kalibr) ⭐ 5,636 | 🐛 134 | 🌐 C++ | 📅 2024-03-30)
 
 ### Evaluation
 
@@ -418,7 +418,7 @@ I made this roadmap to share my thoughts and experience on studying Visual-SLAM,
 | [**ACE Zero**](level-05-deep-learning/ace-zero.md)                                           | [Brachmann 2024](https://arxiv.org/abs/2404.14351)                                                              | Zero-shot SCR, no pre-built 3D map needed                                                    |
 | [**ACE-G**](level-05-deep-learning/ace-g.md)                                                 | [Bruns 2025](https://arxiv.org/abs/2510.11605)                                                                  | Generalizable SCR via query pretraining, new scenes without fine-tuning                      |
 | [**ACE-SLAM**](level-05-deep-learning/ace-slam.md)                                           | [Alzugaray 2025](https://arxiv.org/abs/2512.14032)                                                              | Neural implicit real-time SLAM, network weights = map                                        |
-| [**hloc**](level-05-deep-learning/hloc.md)                                                   | [Sarlin 2019](https://github.com/cvg/Hierarchical-Localization) ⭐ 4,176 \| 🐛 162 \| 🌐 Python \| 📅 2025-12-10 | Toolbox implementing HF-Net's hierarchical localization: coarse (NetVLAD) → fine (SuperGlue) |
+| [**hloc**](level-05-deep-learning/hloc.md)                                                   | [Sarlin 2019](https://github.com/cvg/Hierarchical-Localization) ⭐ 4,177 \| 🐛 162 \| 🌐 Python \| 📅 2025-12-10 | Toolbox implementing HF-Net's hierarchical localization: coarse (NetVLAD) → fine (SuperGlue) |
 
 #### Object Detection & Segmentation for SLAM
 
@@ -751,7 +751,7 @@ I made this roadmap to share my thoughts and experience on studying Visual-SLAM,
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | [**GAIA-1**](level-11-world-models-spatial-ai/gaia-1.md)                         | [Wayve 2023](https://arxiv.org/abs/2309.17080)                                                            | Driving World Model, action-conditioned future scene generation                       |
 | [**Sora / DiT**](level-11-world-models-spatial-ai/sora-dit.md)                   | [OpenAI 2024](https://openai.com/index/sora/)                                                             | Diffusion Transformer, spacetime patches, emergent 3D understanding                   |
-| [**NVIDIA Cosmos**](level-11-world-models-spatial-ai/nvidia-cosmos.md)           | [NVIDIA 2025](https://github.com/NVIDIA/Cosmos) ⭐ 11,468 \| 🐛 43 \| 🌐 Jupyter Notebook \| 📅 2026-08-13 | World Foundation Model platform for Physical AI, synthetic data for AV/robots         |
+| [**NVIDIA Cosmos**](level-11-world-models-spatial-ai/nvidia-cosmos.md)           | [NVIDIA 2025](https://github.com/NVIDIA/Cosmos) ⭐ 11,483 \| 🐛 43 \| 🌐 Jupyter Notebook \| 📅 2026-08-13 | World Foundation Model platform for Physical AI, synthetic data for AV/robots         |
 | [**World Labs / Marble**](level-11-world-models-spatial-ai/world-labs-marble.md) | [Fei-Fei Li 2025](https://www.worldlabs.ai/)                                                              | Generative 3D worlds (persistent Gaussian-splat scenes) from image/video/text prompts |
 | [**WorldVLA**](level-11-world-models-spatial-ai/worldvla.md)                     | [Cen (Alibaba) 2025](https://arxiv.org/abs/2506.21539)                                                    | Autoregressive action world model, learns physics for action generation               |
 | [**SceneDINO**](level-11-world-models-spatial-ai/scenedino.md)                   | [Jevtić 2025](https://arxiv.org/abs/2507.06230)                                                           | Feed-forward unsupervised semantic scene completion                                   |
