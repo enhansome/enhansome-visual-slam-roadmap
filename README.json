@@ -79,10 +79,10 @@
                 "archived": false,
                 "id": 905946140,
                 "language": "C++",
-                "last_commit": "2026-08-24T13:16:19Z",
+                "last_commit": "2026-08-24T15:55:49Z",
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1764
+                "stars": 1765
               }
             }
           ],
@@ -302,7 +302,7 @@
                 "last_commit": "2026-08-22T03:51:25Z",
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11604
+                "stars": 11605
               }
             }
           ],
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:09:56.862Z",
+    "last_updated": "2026-08-24T15:56:32.368Z",
     "original_repository": "changh95/visual-slam-roadmap",
     "original_repository_id": 330972704,
     "original_repository_sha": "e0990905282841c8190a1b172cf5e633af3fa62d",
