@@ -1,7 +1,408 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Multi-sensor calibration",
+              "description": "Camera-IMU, Camera-LiDAR (Kalibr)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20293077,
+                "language": "C++",
+                "last_commit": "2024-03-30T19:42:29Z",
+                "owner": "ethz-asl",
+                "repo": "kalibr",
+                "stars": 5667
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sensors"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tools: evo",
+              "description": "(trajectory evaluation)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103442898,
+                "language": "Python",
+                "last_commit": "2026-08-14T16:14:03Z",
+                "owner": "MichaelGrupp",
+                "repo": "evo",
+                "stars": 4308
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Evaluation"
+        }
+      ],
+      "title": "Level 2: Getting Familiar with SLAM"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Stella-VSLAM",
+              "description": "Community 2021 OpenVSLAM successor, license reboot (→ also in Level 7)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334317360,
+                "language": "C++",
+                "last_commit": "2026-08-14T09:06:32Z",
+                "owner": "stella-cv",
+                "repo": "stella_vslam",
+                "stars": 1236
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyCuVSLAM",
+              "description": "NVIDIA 2025 Python + CUDA GPU-accelerated VSLAM toolkit (cuVSLAM wrapper; stereo/multi-camera VIO)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 905946140,
+                "language": "C++",
+                "last_commit": "2026-08-24T13:16:19Z",
+                "owner": "nvidia-isaac",
+                "repo": "cuVSLAM",
+                "stars": 1764
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Feature-based SLAM"
+        }
+      ],
+      "title": "Level 3: Monocular Visual-SLAM"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "hloc",
+                  "description": "Sarlin 2019 Toolbox implementing HF-Net's hierarchical localization: coarse (NetVLAD) → fine (SuperGlue)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 280084324,
+                    "language": "Python",
+                    "last_commit": "2025-12-10T10:00:19Z",
+                    "owner": "cvg",
+                    "repo": "Hierarchical-Localization",
+                    "stars": 4188
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Camera Pose Regression & Relocalization"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "A. Deep Frontend — Perception"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Lietorch",
+                  "description": "Teed 2021 Lie group operations for PyTorch (SE(3)/SO(3))",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 350524920,
+                    "language": "Cuda",
+                    "last_commit": "2025-05-10T03:09:41Z",
+                    "owner": "princeton-vl",
+                    "repo": "lietorch",
+                    "stars": 851
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Differentiable Bundle Adjustment"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "B. Deep Backend — Optimization"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SpatialLM",
+                  "description": "Mao 2025 Point cloud → LLM, structured indoor modeling as Python scripts",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 948245457,
+                    "language": "Python",
+                    "last_commit": "2026-06-26T18:14:20Z",
+                    "owner": "manycore-research",
+                    "repo": "SpatialLM",
+                    "stars": 4714
+                  }
+                }
+              ],
+              "description": "Also see: LEGS, OpenGS-SLAM (Pillar E above); Open-YOLO 3D (Level 5 Object Detection)",
+              "node_type": "group",
+              "title": "Semantic / Language-Grounded SLAM"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "D. Scene Understanding"
+        }
+      ],
+      "title": "Level 5: Applying Deep Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "S-PTAM",
+              "description": "Pire 2017 Stereo PTAM, ROS-compatible, real-time",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42000477,
+                "language": "C++",
+                "last_commit": "2020-05-14T08:16:29Z",
+                "owner": "lrse",
+                "repo": "sptam",
+                "stars": 375
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stella-VSLAM",
+              "description": "Community 2021 OpenVSLAM successor, stereo support (→ also in Level 3)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 334317360,
+                "language": "C++",
+                "last_commit": "2026-08-14T09:06:32Z",
+                "owner": "stella-cv",
+                "repo": "stella_vslam",
+                "stars": 1236
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Systems"
+        }
+      ],
+      "title": "Level 7: Stereo SLAM"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CCM-SLAM",
+              "description": "Schmuck & Chli 2019 Centralized collaborative monocular SLAM, robust to comm failures",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153804763,
+                "language": "C++",
+                "last_commit": "2023-07-06T08:57:09Z",
+                "owner": "v4rl-ucy",
+                "repo": "ccm_slam",
+                "stars": 640
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Systems"
+        }
+      ],
+      "title": "Level 8: Collaborative / Multi-Robot SLAM"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome-Event-based-SLAM",
+              "description": "KwanWaiPang Curated GitHub list of event-based SLAM papers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 988811575,
+                "language": null,
+                "last_commit": "2026-01-18T09:25:28Z",
+                "owner": "KwanWaiPang",
+                "repo": "Awesome-Event-based-SLAM",
+                "stars": 28
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Foundations"
+        }
+      ],
+      "title": "Level 10: Event Camera SLAM"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NVIDIA Cosmos",
+              "description": "NVIDIA 2025 World Foundation Model platform for Physical AI, synthetic data for AV/robots",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 910176789,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-22T03:51:25Z",
+                "owner": "NVIDIA",
+                "repo": "cosmos",
+                "stars": 11604
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "World Models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome-Transformer-based-SLAM",
+              "description": "KwanWaiPang Curated GitHub list of Transformer-based SLAM methods",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 947710479,
+                "language": null,
+                "last_commit": "2026-08-10T10:00:55Z",
+                "owner": "KwanWaiPang",
+                "repo": "Awesome-Transformer-based-SLAM",
+                "stars": 312
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Resources"
+        }
+      ],
+      "title": "Level 11: World Models & Spatial AI"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SLAM Handbook",
+              "description": "Carlone, Kim, Barfoot, Cremers, Dellaert (eds.) From localization and mapping to spatial intelligence — free community book (2024-25)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 878773100,
+                "language": "TeX",
+                "last_commit": "2026-05-28T00:31:38Z",
+                "owner": "SLAM-Handbook-contributors",
+                "repo": "slam-handbook-public-release",
+                "stars": 4608
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SLAM Zero-to-Hero code exercises",
+              "description": "GitHub — Docker-based hands-on exercises for this roadmap's topics (feature detection, epipolar geometry, RANSAC, ICP, g2o/GTSAM/Ceres) and systems (ORB-SLAM2, Basalt, Kimera, FAST-LIO2, MASt3R-SLAM, ...); individual exercises are linked from the matching study notes",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 683961471,
+                "language": "C++",
+                "last_commit": "2026-08-06T17:33:10Z",
+                "owner": "changh95",
+                "repo": "slam_lecture_codes",
+                "stars": 408
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "changh95/slam_lecture_codes",
+              "description": "GitHub — Full SLAM lecture code collection",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 683961471,
+                "language": "C++",
+                "last_commit": "2026-08-06T17:33:10Z",
+                "owner": "changh95",
+                "repo": "slam_lecture_codes",
+                "stars": 408
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Code & Practice"
+        }
+      ],
+      "title": "Study Resources"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T15:36:38.363Z",
+    "last_updated": "2026-08-24T14:09:56.862Z",
     "original_repository": "changh95/visual-slam-roadmap",
     "original_repository_id": 330972704,
     "original_repository_sha": "e0990905282841c8190a1b172cf5e633af3fa62d",
