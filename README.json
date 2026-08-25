@@ -17,7 +17,7 @@
                 "last_commit": "2024-03-30T19:42:29Z",
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5667
+                "stars": 5673
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-14T16:14:03Z",
                 "owner": "MichaelGrupp",
                 "repo": "evo",
-                "stars": 4308
+                "stars": 4309
               }
             }
           ],
@@ -79,10 +79,10 @@
                 "archived": false,
                 "id": 905946140,
                 "language": "C++",
-                "last_commit": "2026-08-25T00:04:44Z",
+                "last_commit": "2026-08-25T15:36:39Z",
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1766
+                "stars": 1770
               }
             }
           ],
@@ -112,7 +112,7 @@
                     "last_commit": "2025-12-10T10:00:19Z",
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4189
+                    "stars": 4190
                   }
                 }
               ],
@@ -170,7 +170,7 @@
                     "last_commit": "2026-06-26T18:14:20Z",
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4714
+                    "stars": 4715
                   }
                 }
               ],
@@ -299,10 +299,10 @@
                 "archived": false,
                 "id": 910176789,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T03:29:39Z",
+                "last_commit": "2026-08-25T12:46:29Z",
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11613
+                "stars": 11623
               }
             }
           ],
@@ -352,7 +352,7 @@
                 "last_commit": "2026-05-28T00:31:38Z",
                 "owner": "SLAM-Handbook-contributors",
                 "repo": "slam-handbook-public-release",
-                "stars": 4608
+                "stars": 4609
               }
             }
           ],
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:01:26.108Z",
+    "last_updated": "2026-08-25T16:00:56.315Z",
     "original_repository": "changh95/visual-slam-roadmap",
     "original_repository_id": 330972704,
     "original_repository_sha": "e0990905282841c8190a1b172cf5e633af3fa62d",
