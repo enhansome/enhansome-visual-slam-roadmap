@@ -17,7 +17,7 @@
                 "last_commit": "2024-03-30T19:42:29Z",
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5673
+                "stars": 5680
               }
             }
           ],
@@ -64,10 +64,10 @@
                 "archived": false,
                 "id": 334317360,
                 "language": "C++",
-                "last_commit": "2026-08-14T09:06:32Z",
+                "last_commit": "2026-08-26T11:41:08Z",
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1236
+                "stars": 1238
               }
             },
             {
@@ -79,10 +79,10 @@
                 "archived": false,
                 "id": 905946140,
                 "language": "C++",
-                "last_commit": "2026-08-25T15:36:39Z",
+                "last_commit": "2026-08-26T09:54:00Z",
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1770
+                "stars": 1773
               }
             }
           ],
@@ -112,7 +112,7 @@
                     "last_commit": "2025-12-10T10:00:19Z",
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4190
+                    "stars": 4194
                   }
                 }
               ],
@@ -141,7 +141,7 @@
                     "last_commit": "2025-05-10T03:09:41Z",
                     "owner": "princeton-vl",
                     "repo": "lietorch",
-                    "stars": 851
+                    "stars": 852
                   }
                 }
               ],
@@ -170,7 +170,7 @@
                     "last_commit": "2026-06-26T18:14:20Z",
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4715
+                    "stars": 4719
                   }
                 }
               ],
@@ -215,10 +215,10 @@
                 "archived": false,
                 "id": 334317360,
                 "language": "C++",
-                "last_commit": "2026-08-14T09:06:32Z",
+                "last_commit": "2026-08-26T11:41:08Z",
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1236
+                "stars": 1238
               }
             }
           ],
@@ -302,7 +302,7 @@
                 "last_commit": "2026-08-25T12:46:29Z",
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11623
+                "stars": 11640
               }
             }
           ],
@@ -352,7 +352,7 @@
                 "last_commit": "2026-05-28T00:31:38Z",
                 "owner": "SLAM-Handbook-contributors",
                 "repo": "slam-handbook-public-release",
-                "stars": 4609
+                "stars": 4611
               }
             }
           ],
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T16:00:56.315Z",
+    "last_updated": "2026-08-26T16:34:39.538Z",
     "original_repository": "changh95/visual-slam-roadmap",
     "original_repository_id": 330972704,
     "original_repository_sha": "e0990905282841c8190a1b172cf5e633af3fa62d",
