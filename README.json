@@ -17,7 +17,7 @@
                 "last_commit": "2024-03-30T19:42:29Z",
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5682
+                "stars": 5684
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-14T16:14:03Z",
                 "owner": "MichaelGrupp",
                 "repo": "evo",
-                "stars": 4308
+                "stars": 4309
               }
             }
           ],
@@ -67,7 +67,7 @@
                 "last_commit": "2026-08-26T11:41:08Z",
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1238
+                "stars": 1239
               }
             },
             {
@@ -79,7 +79,7 @@
                 "archived": false,
                 "id": 905946140,
                 "language": "C++",
-                "last_commit": "2026-08-26T18:20:55Z",
+                "last_commit": "2026-08-27T22:44:43Z",
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
                 "stars": 1773
@@ -112,7 +112,7 @@
                     "last_commit": "2025-12-10T10:00:19Z",
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4195
+                    "stars": 4196
                   }
                 }
               ],
@@ -141,7 +141,7 @@
                     "last_commit": "2025-05-10T03:09:41Z",
                     "owner": "princeton-vl",
                     "repo": "lietorch",
-                    "stars": 852
+                    "stars": 853
                   }
                 }
               ],
@@ -218,7 +218,7 @@
                 "last_commit": "2026-08-26T11:41:08Z",
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1238
+                "stars": 1239
               }
             }
           ],
@@ -302,7 +302,7 @@
                 "last_commit": "2026-08-25T12:46:29Z",
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11653
+                "stars": 11656
               }
             }
           ],
@@ -402,7 +402,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:10:58.195Z",
+    "last_updated": "2026-08-28T00:25:14.074Z",
     "original_repository_info": {
       "archived": false,
       "id": 330972704,
