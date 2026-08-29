@@ -127,7 +127,7 @@
                 "open_issues": 21,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1773,
+                "stars": 1774,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -163,7 +163,7 @@
                     "open_issues": 162,
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4199,
+                    "stars": 4198,
                     "topics": [
                       "deep-learning",
                       "feature-matching",
@@ -238,10 +238,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-06-26T18:14:20Z",
-                    "open_issues": 4,
+                    "open_issues": 3,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4722,
+                    "stars": 4723,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -411,10 +411,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-08-25T12:46:29Z",
-                "open_issues": 45,
+                "open_issues": 50,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11664,
+                "stars": 11669,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:30:10.434Z",
+    "last_updated": "2026-08-29T18:30:53.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
