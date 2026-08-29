@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Kalibr visual-inertial calibration toolbox",
+                "homepage": null,
                 "id": 20293077,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-30T19:42:29Z",
+                "open_issues": 135,
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5684
+                "stars": 5684,
+                "topics": [
+                  "calibration",
+                  "calibration-toolbox",
+                  "camera",
+                  "imu"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
             }
@@ -35,12 +45,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package for the evaluation of odometry and SLAM",
+                "homepage": "https://michaelgrupp.github.io/evo/",
                 "id": 103442898,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-14T16:14:03Z",
+                "open_issues": 9,
                 "owner": "MichaelGrupp",
                 "repo": "evo",
-                "stars": 4310
+                "stars": 4310,
+                "topics": [
+                  "benchmark",
+                  "euroc",
+                  "evaluation",
+                  "kitti",
+                  "mapping",
+                  "metrics",
+                  "odometry",
+                  "robotics",
+                  "ros",
+                  "ros2",
+                  "slam",
+                  "trajectory",
+                  "trajectory-analysis",
+                  "trajectory-evaluation",
+                  "tum"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
             }
@@ -64,12 +95,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a unofficial fork of OpenVSLAM (https://github.com/xdspacelab/openvslam)",
+                "homepage": "https://stella-cv.rtfd.io/en/latest/",
                 "id": 334317360,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T11:41:08Z",
+                "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1241
+                "stars": 1242,
+                "topics": [
+                  "visual-slam"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
             },
@@ -80,12 +118,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "cuVSLAM: CUDA-Accelerated Visual Odometry and Mapping",
+                "homepage": "https://nvidia-isaac.github.io/cuVSLAM/",
                 "id": 905946140,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T23:47:27Z",
+                "open_issues": 21,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1773
+                "stars": 1773,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
             }
@@ -111,12 +154,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Visual localization made easy with hloc",
+                    "homepage": null,
                     "id": 280084324,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-12-10T10:00:19Z",
+                    "open_issues": 162,
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4198
+                    "stars": 4199,
+                    "topics": [
+                      "deep-learning",
+                      "feature-matching",
+                      "image-retrieval",
+                      "pose-estimation",
+                      "structure-from-motion",
+                      "superglue",
+                      "visual-localization"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:01:10.435Z"
                 }
@@ -141,12 +197,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 350524920,
                     "language": "Cuda",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2025-05-10T03:09:41Z",
+                    "open_issues": 31,
                     "owner": "princeton-vl",
                     "repo": "lietorch",
-                    "stars": 853
+                    "stars": 853,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:10.435Z"
                 }
@@ -171,12 +232,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2025] SpatialLM: Training Large Language Models for Structured Indoor Modeling",
+                    "homepage": "https://manycore-research.github.io/SpatialLM",
                     "id": 948245457,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-26T18:14:20Z",
+                    "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4722
+                    "stars": 4722,
+                    "topics": [
+                      "mllm",
+                      "point-clouds",
+                      "scene-understanding",
+                      "spatial-intelligence"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:01:10.435Z"
                 }
@@ -205,12 +276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "S-PTAM: Stereo Parallel Tracking and Mapping",
+                "homepage": null,
                 "id": 42000477,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2020-05-14T08:16:29Z",
+                "open_issues": 0,
                 "owner": "lrse",
                 "repo": "sptam",
-                "stars": 375
+                "stars": 375,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
             },
@@ -221,12 +297,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a unofficial fork of OpenVSLAM (https://github.com/xdspacelab/openvslam)",
+                "homepage": "https://stella-cv.rtfd.io/en/latest/",
                 "id": 334317360,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T11:41:08Z",
+                "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1241
+                "stars": 1242,
+                "topics": [
+                  "visual-slam"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
             }
@@ -250,12 +333,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CCM-SLAM: Robust and Efficient Centralized Collaborative Monocular SLAM for Robotic Teams",
+                "homepage": null,
                 "id": 153804763,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-07-06T08:57:09Z",
+                "open_issues": 4,
                 "owner": "v4rl-ucy",
                 "repo": "ccm_slam",
-                "stars": 639
+                "stars": 639,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
             }
@@ -279,12 +367,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Paper Survey for Event-based SLAM",
+                "homepage": "https://kwanwaipang.github.io/PhDThesis/",
                 "id": 988811575,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-01-18T09:25:28Z",
+                "open_issues": 0,
                 "owner": "KwanWaiPang",
                 "repo": "Awesome-Event-based-SLAM",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "event-camera",
+                  "robotics",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
             }
@@ -308,12 +405,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+                "homepage": "https://www.nvidia.com/en-us/ai/cosmos/",
                 "id": 910176789,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T12:46:29Z",
+                "open_issues": 45,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11664
+                "stars": 11664,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
             }
@@ -331,12 +433,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Paper Survey for Transformer-based SLAM",
+                "homepage": "https://kwanwaipang.github.io/Transformer_SLAM/",
                 "id": 947710479,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-10T10:00:55Z",
+                "open_issues": 0,
                 "owner": "KwanWaiPang",
                 "repo": "Awesome-Transformer-based-SLAM",
-                "stars": 312
+                "stars": 312,
+                "topics": [
+                  "awesome",
+                  "deep-learning",
+                  "depth-estimation",
+                  "pose-estimation",
+                  "slam",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
             }
@@ -360,12 +474,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Release repo for our SLAM Handbook",
+                "homepage": null,
                 "id": 878773100,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2026-05-28T00:31:38Z",
+                "open_issues": 13,
                 "owner": "SLAM-Handbook-contributors",
                 "repo": "slam-handbook-public-release",
-                "stars": 4615
+                "stars": 4615,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
             }
@@ -383,12 +502,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code exercises for the SLAM courses",
+                "homepage": null,
                 "id": 683961471,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-06T17:33:10Z",
+                "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
-                "stars": 408
+                "stars": 408,
+                "topics": [
+                  "ai",
+                  "cpp",
+                  "python",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
             },
@@ -399,12 +528,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code exercises for the SLAM courses",
+                "homepage": null,
                 "id": 683961471,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-08-06T17:33:10Z",
+                "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
-                "stars": 408
+                "stars": 408,
+                "topics": [
+                  "ai",
+                  "cpp",
+                  "python",
+                  "slam"
+                ]
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
             }
@@ -418,15 +557,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:01:10.435Z",
+    "last_updated": "2026-08-29T04:30:10.434Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Roadmap to become a Visual-SLAM developer in 2026",
+      "homepage": "https://www.cv-learn.com/visual-slam-roadmap/",
       "id": 330972704,
       "language": "Astro",
+      "license": "MIT",
       "last_commit": "2026-07-19T23:40:16Z",
+      "open_issues": 8,
       "owner": "changh95",
       "repo": "visual-slam-roadmap",
-      "stars": 1764
+      "stars": 1764,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "computer-vision",
+        "deep-learning",
+        "rgb-d",
+        "roadmap",
+        "robotics",
+        "slam",
+        "vio",
+        "visual-inertial-odometry",
+        "visual-slam"
+      ]
     },
     "original_repository_sha": "e0990905282841c8190a1b172cf5e633af3fa62d",
     "enhanced_repository": "enhansome/enhansome-visual-slam-roadmap",
