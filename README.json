@@ -21,7 +21,7 @@
                 "open_issues": 135,
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5684,
+                "stars": 5686,
                 "topics": [
                   "calibration",
                   "calibration-toolbox",
@@ -50,11 +50,11 @@
                 "id": 103442898,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-14T16:14:03Z",
-                "open_issues": 9,
+                "last_commit": "2026-08-31T12:41:35Z",
+                "open_issues": 8,
                 "owner": "MichaelGrupp",
                 "repo": "evo",
-                "stars": 4310,
+                "stars": 4311,
                 "topics": [
                   "benchmark",
                   "euroc",
@@ -123,11 +123,11 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-30T17:11:06Z",
-                "open_issues": 20,
+                "last_commit": "2026-08-31T19:22:40Z",
+                "open_issues": 19,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1774,
+                "stars": 1777,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -163,7 +163,7 @@
                     "open_issues": 162,
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4198,
+                    "stars": 4200,
                     "topics": [
                       "deep-learning",
                       "feature-matching",
@@ -410,11 +410,11 @@
                 "id": 910176789,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-25T12:46:29Z",
-                "open_issues": 50,
+                "last_commit": "2026-08-31T13:34:22Z",
+                "open_issues": 51,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11672,
+                "stars": 11681,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -438,11 +438,11 @@
                 "id": 947710479,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-08-30T13:14:39Z",
+                "last_commit": "2026-08-31T12:29:44Z",
                 "open_issues": 0,
                 "owner": "KwanWaiPang",
                 "repo": "Awesome-Transformer-based-SLAM",
-                "stars": 312,
+                "stars": 313,
                 "topics": [
                   "awesome",
                   "deep-learning",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:38:31.001Z",
+    "last_updated": "2026-08-31T20:50:10.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
@@ -569,7 +569,7 @@
       "open_issues": 8,
       "owner": "changh95",
       "repo": "visual-slam-roadmap",
-      "stars": 1764,
+      "stars": 1765,
       "topics": [
         "awesome",
         "awesome-list",
