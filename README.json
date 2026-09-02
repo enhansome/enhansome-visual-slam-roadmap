@@ -21,7 +21,7 @@
                 "open_issues": 135,
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5689,
+                "stars": 5696,
                 "topics": [
                   "calibration",
                   "calibration-toolbox",
@@ -104,7 +104,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1242,
+                "stars": 1243,
                 "topics": [
                   "visual-slam"
                 ]
@@ -123,11 +123,11 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T14:46:46Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-02T10:08:19Z",
+                "open_issues": 15,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1780,
+                "stars": 1781,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -206,7 +206,7 @@
                     "open_issues": 31,
                     "owner": "princeton-vl",
                     "repo": "lietorch",
-                    "stars": 853,
+                    "stars": 854,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:10.435Z"
@@ -241,7 +241,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4725,
+                    "stars": 4726,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -306,7 +306,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1242,
+                "stars": 1243,
                 "topics": [
                   "visual-slam"
                 ]
@@ -342,7 +342,7 @@
                 "open_issues": 4,
                 "owner": "v4rl-ucy",
                 "repo": "ccm_slam",
-                "stars": 639,
+                "stars": 640,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -410,11 +410,11 @@
                 "id": 910176789,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T13:34:22Z",
+                "last_commit": "2026-09-02T13:57:04Z",
                 "open_issues": 50,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11695,
+                "stars": 11710,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -483,7 +483,7 @@
                 "open_issues": 13,
                 "owner": "SLAM-Handbook-contributors",
                 "repo": "slam-handbook-public-release",
-                "stars": 4615,
+                "stars": 4616,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -511,7 +511,7 @@
                 "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
-                "stars": 410,
+                "stars": 411,
                 "topics": [
                   "ai",
                   "cpp",
@@ -537,7 +537,7 @@
                 "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
-                "stars": 410,
+                "stars": 411,
                 "topics": [
                   "ai",
                   "cpp",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T18:31:29.285Z",
+    "last_updated": "2026-09-02T18:43:29.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
@@ -569,7 +569,7 @@
       "open_issues": 8,
       "owner": "changh95",
       "repo": "visual-slam-roadmap",
-      "stars": 1766,
+      "stars": 1772,
       "topics": [
         "awesome",
         "awesome-list",
