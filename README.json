@@ -21,7 +21,7 @@
                 "open_issues": 135,
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5696,
+                "stars": 5698,
                 "topics": [
                   "calibration",
                   "calibration-toolbox",
@@ -50,11 +50,11 @@
                 "id": 103442898,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-31T12:41:35Z",
-                "open_issues": 8,
+                "last_commit": "2026-09-03T15:33:33Z",
+                "open_issues": 7,
                 "owner": "MichaelGrupp",
                 "repo": "evo",
-                "stars": 4311,
+                "stars": 4312,
                 "topics": [
                   "benchmark",
                   "euroc",
@@ -123,7 +123,7 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T10:08:19Z",
+                "last_commit": "2026-09-03T16:57:26Z",
                 "open_issues": 15,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
@@ -163,7 +163,7 @@
                     "open_issues": 162,
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4201,
+                    "stars": 4202,
                     "topics": [
                       "deep-learning",
                       "feature-matching",
@@ -241,7 +241,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4726,
+                    "stars": 4728,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -410,11 +410,11 @@
                 "id": 910176789,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T13:57:04Z",
+                "last_commit": "2026-09-03T09:05:05Z",
                 "open_issues": 50,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11710,
+                "stars": 11720,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T18:43:29.889Z",
+    "last_updated": "2026-09-03T18:40:21.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
