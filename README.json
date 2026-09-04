@@ -21,7 +21,7 @@
                 "open_issues": 135,
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5698,
+                "stars": 5701,
                 "topics": [
                   "calibration",
                   "calibration-toolbox",
@@ -118,13 +118,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "cuVSLAM: CUDA-Accelerated Visual Odometry and Mapping",
+                "description": "CUDA-accelerated visual odometry and SLAM library for fast, accurate, low-latency camera tracking",
                 "homepage": "https://nvidia-isaac.github.io/cuVSLAM/",
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T16:57:26Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-04T17:57:54Z",
+                "open_issues": 16,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
                 "stars": 1781,
@@ -206,7 +206,7 @@
                     "open_issues": 31,
                     "owner": "princeton-vl",
                     "repo": "lietorch",
-                    "stars": 854,
+                    "stars": 855,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:10.435Z"
@@ -241,7 +241,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4728,
+                    "stars": 4729,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -342,7 +342,7 @@
                 "open_issues": 4,
                 "owner": "v4rl-ucy",
                 "repo": "ccm_slam",
-                "stars": 640,
+                "stars": 641,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -410,11 +410,11 @@
                 "id": 910176789,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T09:05:05Z",
-                "open_issues": 50,
+                "last_commit": "2026-09-04T16:35:17Z",
+                "open_issues": 49,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11720,
+                "stars": 11734,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -483,7 +483,7 @@
                 "open_issues": 13,
                 "owner": "SLAM-Handbook-contributors",
                 "repo": "slam-handbook-public-release",
-                "stars": 4616,
+                "stars": 4619,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T18:40:21.166Z",
+    "last_updated": "2026-09-04T18:24:47.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
