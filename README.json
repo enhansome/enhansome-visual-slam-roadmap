@@ -21,7 +21,7 @@
                 "open_issues": 135,
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5710,
+                "stars": 5713,
                 "topics": [
                   "calibration",
                   "calibration-toolbox",
@@ -54,7 +54,7 @@
                 "open_issues": 7,
                 "owner": "MichaelGrupp",
                 "repo": "evo",
-                "stars": 4311,
+                "stars": 4312,
                 "topics": [
                   "benchmark",
                   "euroc",
@@ -123,11 +123,11 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T17:25:49Z",
+                "last_commit": "2026-09-11T09:18:50Z",
                 "open_issues": 19,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1798,
+                "stars": 1803,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -241,7 +241,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4732,
+                    "stars": 4733,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -411,10 +411,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-10T03:48:05Z",
-                "open_issues": 49,
+                "open_issues": 50,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11793,
+                "stars": 11801,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:29:19.097Z",
+    "last_updated": "2026-09-11T18:34:12.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
@@ -569,7 +569,7 @@
       "open_issues": 8,
       "owner": "changh95",
       "repo": "visual-slam-roadmap",
-      "stars": 1773,
+      "stars": 1775,
       "topics": [
         "awesome",
         "awesome-list",
