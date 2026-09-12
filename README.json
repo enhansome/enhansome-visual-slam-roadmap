@@ -21,7 +21,7 @@
                 "open_issues": 135,
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5713,
+                "stars": 5715,
                 "topics": [
                   "calibration",
                   "calibration-toolbox",
@@ -123,8 +123,8 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T09:18:50Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-11T19:12:00Z",
+                "open_issues": 18,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
                 "stars": 1803,
@@ -163,7 +163,7 @@
                     "open_issues": 163,
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4203,
+                    "stars": 4204,
                     "topics": [
                       "deep-learning",
                       "feature-matching",
@@ -410,11 +410,11 @@
                 "id": 910176789,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T03:48:05Z",
-                "open_issues": 50,
+                "last_commit": "2026-09-12T01:30:23Z",
+                "open_issues": 49,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11801,
+                "stars": 11807,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -438,7 +438,7 @@
                 "id": 947710479,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-10T13:24:40Z",
+                "last_commit": "2026-09-12T13:06:44Z",
                 "open_issues": 0,
                 "owner": "KwanWaiPang",
                 "repo": "Awesome-Transformer-based-SLAM",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T18:34:12.429Z",
+    "last_updated": "2026-09-12T17:45:04.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
