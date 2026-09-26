@@ -418,7 +418,7 @@ I made this roadmap to share my thoughts and experience on studying Visual-SLAM,
 | [**ACE Zero**](level-05-deep-learning/ace-zero.md)                                           | [Brachmann 2024](https://arxiv.org/abs/2404.14351)                                                              | Zero-shot SCR, no pre-built 3D map needed                                                    |
 | [**ACE-G**](level-05-deep-learning/ace-g.md)                                                 | [Bruns 2025](https://arxiv.org/abs/2510.11605)                                                                  | Generalizable SCR via query pretraining, new scenes without fine-tuning                      |
 | [**ACE-SLAM**](level-05-deep-learning/ace-slam.md)                                           | [Alzugaray 2025](https://arxiv.org/abs/2512.14032)                                                              | Neural implicit real-time SLAM, network weights = map                                        |
-| [**hloc**](level-05-deep-learning/hloc.md)                                                   | [Sarlin 2019](https://github.com/cvg/Hierarchical-Localization) ⭐ 4,223 \| 🐛 166 \| 🌐 Python \| 📅 2025-12-10 | Toolbox implementing HF-Net's hierarchical localization: coarse (NetVLAD) → fine (SuperGlue) |
+| [**hloc**](level-05-deep-learning/hloc.md)                                                   | [Sarlin 2019](https://github.com/cvg/Hierarchical-Localization) ⭐ 4,224 \| 🐛 166 \| 🌐 Python \| 📅 2025-12-10 | Toolbox implementing HF-Net's hierarchical localization: coarse (NetVLAD) → fine (SuperGlue) |
 
 #### Object Detection & Segmentation for SLAM
 
@@ -751,7 +751,7 @@ I made this roadmap to share my thoughts and experience on studying Visual-SLAM,
 | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | [**GAIA-1**](level-11-world-models-spatial-ai/gaia-1.md)                         | [Wayve 2023](https://arxiv.org/abs/2309.17080)                                                            | Driving World Model, action-conditioned future scene generation                       |
 | [**Sora / DiT**](level-11-world-models-spatial-ai/sora-dit.md)                   | [OpenAI 2024](https://openai.com/index/sora/)                                                             | Diffusion Transformer, spacetime patches, emergent 3D understanding                   |
-| [**NVIDIA Cosmos**](level-11-world-models-spatial-ai/nvidia-cosmos.md)           | [NVIDIA 2025](https://github.com/NVIDIA/Cosmos) ⭐ 11,910 \| 🐛 59 \| 🌐 Jupyter Notebook \| 📅 2026-09-23 | World Foundation Model platform for Physical AI, synthetic data for AV/robots         |
+| [**NVIDIA Cosmos**](level-11-world-models-spatial-ai/nvidia-cosmos.md)           | [NVIDIA 2025](https://github.com/NVIDIA/Cosmos) ⭐ 11,913 \| 🐛 60 \| 🌐 Jupyter Notebook \| 📅 2026-09-23 | World Foundation Model platform for Physical AI, synthetic data for AV/robots         |
 | [**World Labs / Marble**](level-11-world-models-spatial-ai/world-labs-marble.md) | [Fei-Fei Li 2025](https://www.worldlabs.ai/)                                                              | Generative 3D worlds (persistent Gaussian-splat scenes) from image/video/text prompts |
 | [**WorldVLA**](level-11-world-models-spatial-ai/worldvla.md)                     | [Cen (Alibaba) 2025](https://arxiv.org/abs/2506.21539)                                                    | Autoregressive action world model, learns physics for action generation               |
 | [**SceneDINO**](level-11-world-models-spatial-ai/scenedino.md)                   | [Jevtić 2025](https://arxiv.org/abs/2507.06230)                                                           | Feed-forward unsupervised semantic scene completion                                   |
@@ -821,8 +821,8 @@ I made this roadmap to share my thoughts and experience on studying Visual-SLAM,
 
 | Resource                             | Link                                                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **SLAM Zero-to-Hero code exercises** | [GitHub](https://github.com/changh95/slam_lecture_codes/tree/main/SLAM_zero_to_hero) ⭐ 415 \| 🐛 0 \| 🌐 C++ \| 📅 2026-08-06 — Docker-based hands-on exercises for this roadmap's topics (feature detection, epipolar geometry, RANSAC, ICP, g2o/GTSAM/Ceres) and systems (ORB-SLAM2, Basalt, Kimera, FAST-LIO2, MASt3R-SLAM, ...); individual exercises are linked from the matching study notes |
-| **changh95/slam\_lecture\_codes**    | [GitHub](https://github.com/changh95/slam_lecture_codes) ⭐ 415 \| 🐛 0 \| 🌐 C++ \| 📅 2026-08-06 — Full SLAM lecture code collection                                                                                                                                                                                                                                                              |
+| **SLAM Zero-to-Hero code exercises** | [GitHub](https://github.com/changh95/slam_lecture_codes/tree/main/SLAM_zero_to_hero) ⭐ 416 \| 🐛 0 \| 🌐 C++ \| 📅 2026-08-06 — Docker-based hands-on exercises for this roadmap's topics (feature detection, epipolar geometry, RANSAC, ICP, g2o/GTSAM/Ceres) and systems (ORB-SLAM2, Basalt, Kimera, FAST-LIO2, MASt3R-SLAM, ...); individual exercises are linked from the matching study notes |
+| **changh95/slam\_lecture\_codes**    | [GitHub](https://github.com/changh95/slam_lecture_codes) ⭐ 416 \| 🐛 0 \| 🌐 C++ \| 📅 2026-08-06 — Full SLAM lecture code collection                                                                                                                                                                                                                                                              |
 
 ***
 
@@ -859,4 +859,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
