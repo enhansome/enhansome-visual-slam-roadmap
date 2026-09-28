@@ -21,7 +21,7 @@
                 "open_issues": 137,
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5745,
+                "stars": 5746,
                 "topics": [
                   "calibration",
                   "calibration-toolbox",
@@ -51,7 +51,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-08T16:20:46Z",
-                "open_issues": 7,
+                "open_issues": 9,
                 "owner": "MichaelGrupp",
                 "repo": "evo",
                 "stars": 4321,
@@ -123,11 +123,11 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-23T20:38:35Z",
+                "last_commit": "2026-09-28T21:11:14Z",
                 "open_issues": 21,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1834,
+                "stars": 1835,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -411,10 +411,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-23T17:14:38Z",
-                "open_issues": 60,
+                "open_issues": 61,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11919,
+                "stars": 11929,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -438,11 +438,11 @@
                 "id": 947710479,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-09-12T13:06:44Z",
+                "last_commit": "2026-09-28T05:43:29Z",
                 "open_issues": 0,
                 "owner": "KwanWaiPang",
                 "repo": "Awesome-Transformer-based-SLAM",
-                "stars": 315,
+                "stars": 316,
                 "topics": [
                   "awesome",
                   "deep-learning",
@@ -483,7 +483,7 @@
                 "open_issues": 13,
                 "owner": "SLAM-Handbook-contributors",
                 "repo": "slam-handbook-public-release",
-                "stars": 4636,
+                "stars": 4637,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -507,7 +507,7 @@
                 "id": 683961471,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-08-06T17:33:10Z",
+                "last_commit": "2026-09-28T02:49:51Z",
                 "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
@@ -533,7 +533,7 @@
                 "id": 683961471,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-08-06T17:33:10Z",
+                "last_commit": "2026-09-28T02:49:51Z",
                 "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T18:59:05.465Z",
+    "last_updated": "2026-09-28T21:14:37.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
@@ -569,7 +569,7 @@
       "open_issues": 8,
       "owner": "changh95",
       "repo": "visual-slam-roadmap",
-      "stars": 1788,
+      "stars": 1789,
       "topics": [
         "awesome",
         "awesome-list",
