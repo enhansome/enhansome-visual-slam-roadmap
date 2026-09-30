@@ -104,7 +104,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1250,
+                "stars": 1251,
                 "topics": [
                   "visual-slam"
                 ]
@@ -123,11 +123,11 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T18:54:44Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-30T18:36:54Z",
+                "open_issues": 28,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1836,
+                "stars": 1837,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -163,7 +163,7 @@
                     "open_issues": 167,
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4225,
+                    "stars": 4226,
                     "topics": [
                       "deep-learning",
                       "feature-matching",
@@ -306,7 +306,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1250,
+                "stars": 1251,
                 "topics": [
                   "visual-slam"
                 ]
@@ -411,10 +411,10 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-29T16:56:51Z",
-                "open_issues": 59,
+                "open_issues": 60,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11943,
+                "stars": 11954,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -483,7 +483,7 @@
                 "open_issues": 13,
                 "owner": "SLAM-Handbook-contributors",
                 "repo": "slam-handbook-public-release",
-                "stars": 4641,
+                "stars": 4643,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:59:22.897Z",
+    "last_updated": "2026-09-30T20:01:37.872Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
