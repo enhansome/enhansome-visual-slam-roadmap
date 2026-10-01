@@ -21,7 +21,7 @@
                 "open_issues": 137,
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5749,
+                "stars": 5750,
                 "topics": [
                   "calibration",
                   "calibration-toolbox",
@@ -51,7 +51,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-08T16:20:46Z",
-                "open_issues": 9,
+                "open_issues": 8,
                 "owner": "MichaelGrupp",
                 "repo": "evo",
                 "stars": 4322,
@@ -104,7 +104,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1251,
+                "stars": 1252,
                 "topics": [
                   "visual-slam"
                 ]
@@ -123,11 +123,11 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T18:36:54Z",
+                "last_commit": "2026-10-01T16:53:55Z",
                 "open_issues": 28,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1837,
+                "stars": 1840,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -306,7 +306,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1251,
+                "stars": 1252,
                 "topics": [
                   "visual-slam"
                 ]
@@ -414,7 +414,7 @@
                 "open_issues": 60,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11954,
+                "stars": 11960,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -483,7 +483,7 @@
                 "open_issues": 13,
                 "owner": "SLAM-Handbook-contributors",
                 "repo": "slam-handbook-public-release",
-                "stars": 4643,
+                "stars": 4642,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -511,7 +511,7 @@
                 "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
-                "stars": 416,
+                "stars": 415,
                 "topics": [
                   "ai",
                   "cpp",
@@ -537,7 +537,7 @@
                 "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
-                "stars": 416,
+                "stars": 415,
                 "topics": [
                   "ai",
                   "cpp",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T20:01:37.872Z",
+    "last_updated": "2026-10-01T20:21:28.864Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
@@ -569,7 +569,7 @@
       "open_issues": 8,
       "owner": "changh95",
       "repo": "visual-slam-roadmap",
-      "stars": 1793,
+      "stars": 1797,
       "topics": [
         "awesome",
         "awesome-list",
