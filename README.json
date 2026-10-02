@@ -54,7 +54,7 @@
                 "open_issues": 8,
                 "owner": "MichaelGrupp",
                 "repo": "evo",
-                "stars": 4322,
+                "stars": 4325,
                 "topics": [
                   "benchmark",
                   "euroc",
@@ -123,7 +123,7 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T16:53:55Z",
+                "last_commit": "2026-10-02T12:47:26Z",
                 "open_issues": 28,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
@@ -160,10 +160,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-12-10T10:00:19Z",
-                    "open_issues": 167,
+                    "open_issues": 168,
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4226,
+                    "stars": 4228,
                     "topics": [
                       "deep-learning",
                       "feature-matching",
@@ -241,7 +241,7 @@
                     "open_issues": 5,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4745,
+                    "stars": 4744,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -414,7 +414,7 @@
                 "open_issues": 60,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11960,
+                "stars": 11972,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T20:21:28.864Z",
+    "last_updated": "2026-10-02T19:57:23.978Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
@@ -569,7 +569,7 @@
       "open_issues": 8,
       "owner": "changh95",
       "repo": "visual-slam-roadmap",
-      "stars": 1797,
+      "stars": 1798,
       "topics": [
         "awesome",
         "awesome-list",
