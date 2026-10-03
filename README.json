@@ -163,7 +163,7 @@
                     "open_issues": 168,
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4228,
+                    "stars": 4229,
                     "topics": [
                       "deep-learning",
                       "feature-matching",
@@ -414,7 +414,7 @@
                 "open_issues": 60,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11976,
+                "stars": 11978,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -483,7 +483,7 @@
                 "open_issues": 13,
                 "owner": "SLAM-Handbook-contributors",
                 "repo": "slam-handbook-public-release",
-                "stars": 4642,
+                "stars": 4641,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:15:50.853Z",
+    "last_updated": "2026-10-03T18:41:08.081Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
