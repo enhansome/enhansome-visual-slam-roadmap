@@ -123,8 +123,8 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T12:47:26Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-02T21:43:55Z",
+                "open_issues": 30,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
                 "stars": 1840,
@@ -414,7 +414,7 @@
                 "open_issues": 60,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11972,
+                "stars": 11976,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:57:23.978Z",
+    "last_updated": "2026-10-03T05:15:50.853Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
