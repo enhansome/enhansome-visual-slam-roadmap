@@ -50,11 +50,11 @@
                 "id": 103442898,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-08T16:20:46Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-05T17:23:23Z",
+                "open_issues": 6,
                 "owner": "MichaelGrupp",
                 "repo": "evo",
-                "stars": 4326,
+                "stars": 4325,
                 "topics": [
                   "benchmark",
                   "euroc",
@@ -123,11 +123,11 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-04T15:25:41Z",
+                "last_commit": "2026-10-05T21:57:51Z",
                 "open_issues": 31,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1841,
+                "stars": 1843,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -163,7 +163,7 @@
                     "open_issues": 168,
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4229,
+                    "stars": 4227,
                     "topics": [
                       "deep-learning",
                       "feature-matching",
@@ -241,7 +241,7 @@
                     "open_issues": 5,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 4745,
+                    "stars": 4744,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -414,7 +414,7 @@
                 "open_issues": 60,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11981,
+                "stars": 11980,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -483,7 +483,7 @@
                 "open_issues": 13,
                 "owner": "SLAM-Handbook-contributors",
                 "repo": "slam-handbook-public-release",
-                "stars": 4642,
+                "stars": 4644,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -511,7 +511,7 @@
                 "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
-                "stars": 415,
+                "stars": 416,
                 "topics": [
                   "ai",
                   "cpp",
@@ -537,7 +537,7 @@
                 "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
-                "stars": 415,
+                "stars": 416,
                 "topics": [
                   "ai",
                   "cpp",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:38:33.057Z",
+    "last_updated": "2026-10-05T22:01:20.284Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
@@ -569,7 +569,7 @@
       "open_issues": 8,
       "owner": "changh95",
       "repo": "visual-slam-roadmap",
-      "stars": 1799,
+      "stars": 1800,
       "topics": [
         "awesome",
         "awesome-list",
