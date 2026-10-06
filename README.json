@@ -21,7 +21,7 @@
                 "open_issues": 137,
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5750,
+                "stars": 5749,
                 "topics": [
                   "calibration",
                   "calibration-toolbox",
@@ -51,7 +51,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-05T17:23:23Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "MichaelGrupp",
                 "repo": "evo",
                 "stars": 4325,
@@ -104,7 +104,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1252,
+                "stars": 1253,
                 "topics": [
                   "visual-slam"
                 ]
@@ -123,7 +123,7 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T21:57:51Z",
+                "last_commit": "2026-10-06T08:11:10Z",
                 "open_issues": 31,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
@@ -306,7 +306,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1252,
+                "stars": 1253,
                 "topics": [
                   "visual-slam"
                 ]
@@ -410,11 +410,11 @@
                 "id": 910176789,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-29T16:56:51Z",
-                "open_issues": 60,
+                "last_commit": "2026-10-06T03:08:54Z",
+                "open_issues": 59,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 11980,
+                "stars": 11982,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:01:20.284Z",
+    "last_updated": "2026-10-06T10:59:08.555Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
@@ -569,7 +569,7 @@
       "open_issues": 8,
       "owner": "changh95",
       "repo": "visual-slam-roadmap",
-      "stars": 1800,
+      "stars": 1801,
       "topics": [
         "awesome",
         "awesome-list",
