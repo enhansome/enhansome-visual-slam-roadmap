@@ -54,7 +54,7 @@
                 "open_issues": 6,
                 "owner": "MichaelGrupp",
                 "repo": "evo",
-                "stars": 4338,
+                "stars": 4339,
                 "topics": [
                   "benchmark",
                   "euroc",
@@ -104,7 +104,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1254,
+                "stars": 1255,
                 "topics": [
                   "visual-slam"
                 ]
@@ -163,7 +163,7 @@
                     "open_issues": 174,
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4242,
+                    "stars": 4243,
                     "topics": [
                       "deep-learning",
                       "feature-matching",
@@ -206,7 +206,7 @@
                     "open_issues": 32,
                     "owner": "princeton-vl",
                     "repo": "lietorch",
-                    "stars": 856,
+                    "stars": 857,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:01:10.435Z"
@@ -306,7 +306,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1254,
+                "stars": 1255,
                 "topics": [
                   "visual-slam"
                 ]
@@ -342,7 +342,7 @@
                 "open_issues": 4,
                 "owner": "v4rl-ucy",
                 "repo": "ccm_slam",
-                "stars": 645,
+                "stars": 646,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -414,7 +414,7 @@
                 "open_issues": 65,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12052,
+                "stars": 12057,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T18:48:51.718Z",
+    "last_updated": "2026-10-17T17:51:36.628Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
