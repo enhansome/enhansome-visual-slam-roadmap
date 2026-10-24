@@ -127,7 +127,7 @@
                 "open_issues": 39,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1874,
+                "stars": 1876,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -163,7 +163,7 @@
                     "open_issues": 174,
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4248,
+                    "stars": 4250,
                     "topics": [
                       "deep-learning",
                       "feature-matching",
@@ -414,7 +414,7 @@
                 "open_issues": 68,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12126,
+                "stars": 12129,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -483,7 +483,7 @@
                 "open_issues": 13,
                 "owner": "SLAM-Handbook-contributors",
                 "repo": "slam-handbook-public-release",
-                "stars": 4662,
+                "stars": 4663,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:13:36.995Z",
+    "last_updated": "2026-10-24T18:09:59.494Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
@@ -569,7 +569,7 @@
       "open_issues": 8,
       "owner": "changh95",
       "repo": "visual-slam-roadmap",
-      "stars": 1813,
+      "stars": 1814,
       "topics": [
         "awesome",
         "awesome-list",
