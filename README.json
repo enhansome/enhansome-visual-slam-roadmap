@@ -21,7 +21,7 @@
                 "open_issues": 138,
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5778,
+                "stars": 5779,
                 "topics": [
                   "calibration",
                   "calibration-toolbox",
@@ -51,10 +51,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-26T17:48:58Z",
-                "open_issues": 6,
+                "open_issues": 8,
                 "owner": "MichaelGrupp",
                 "repo": "evo",
-                "stars": 4347,
+                "stars": 4348,
                 "topics": [
                   "benchmark",
                   "euroc",
@@ -104,7 +104,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1260,
+                "stars": 1261,
                 "topics": [
                   "visual-slam"
                 ]
@@ -123,11 +123,11 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T20:14:36Z",
+                "last_commit": "2026-10-27T19:44:47Z",
                 "open_issues": 37,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1877,
+                "stars": 1878,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -241,7 +241,7 @@
                     "open_issues": 5,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5101,
+                    "stars": 5103,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -306,7 +306,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1260,
+                "stars": 1261,
                 "topics": [
                   "visual-slam"
                 ]
@@ -376,7 +376,7 @@
                 "open_issues": 1,
                 "owner": "KwanWaiPang",
                 "repo": "Awesome-Event-based-SLAM",
-                "stars": 30,
+                "stars": 31,
                 "topics": [
                   "event-camera",
                   "robotics",
@@ -411,10 +411,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-21T22:46:16Z",
-                "open_issues": 68,
+                "open_issues": 69,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12160,
+                "stars": 12179,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -483,7 +483,7 @@
                 "open_issues": 13,
                 "owner": "SLAM-Handbook-contributors",
                 "repo": "slam-handbook-public-release",
-                "stars": 4665,
+                "stars": 4666,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -507,7 +507,7 @@
                 "id": 683961471,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-26T19:32:20Z",
+                "last_commit": "2026-10-27T00:41:59Z",
                 "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
@@ -533,7 +533,7 @@
                 "id": 683961471,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-26T19:32:20Z",
+                "last_commit": "2026-10-27T00:41:59Z",
                 "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T20:29:22.267Z",
+    "last_updated": "2026-10-27T20:05:33.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
