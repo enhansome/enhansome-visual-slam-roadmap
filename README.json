@@ -21,7 +21,7 @@
                 "open_issues": 138,
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5792,
+                "stars": 5795,
                 "topics": [
                   "calibration",
                   "calibration-toolbox",
@@ -51,10 +51,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-30T09:00:26Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "MichaelGrupp",
                 "repo": "evo",
-                "stars": 4354,
+                "stars": 4356,
                 "topics": [
                   "benchmark",
                   "euroc",
@@ -104,7 +104,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1264,
+                "stars": 1265,
                 "topics": [
                   "visual-slam"
                 ]
@@ -123,11 +123,11 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-02T15:26:33Z",
-                "open_issues": 30,
+                "last_commit": "2026-11-03T19:36:29Z",
+                "open_issues": 33,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1892,
+                "stars": 1893,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -163,7 +163,7 @@
                     "open_issues": 174,
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4258,
+                    "stars": 4260,
                     "topics": [
                       "deep-learning",
                       "feature-matching",
@@ -241,7 +241,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5116,
+                    "stars": 5118,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -306,7 +306,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1264,
+                "stars": 1265,
                 "topics": [
                   "visual-slam"
                 ]
@@ -414,7 +414,7 @@
                 "open_issues": 28,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12230,
+                "stars": 12243,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -483,7 +483,7 @@
                 "open_issues": 13,
                 "owner": "SLAM-Handbook-contributors",
                 "repo": "slam-handbook-public-release",
-                "stars": 4677,
+                "stars": 4678,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -511,7 +511,7 @@
                 "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
-                "stars": 419,
+                "stars": 420,
                 "topics": [
                   "ai",
                   "cpp",
@@ -537,7 +537,7 @@
                 "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
-                "stars": 419,
+                "stars": 420,
                 "topics": [
                   "ai",
                   "cpp",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:06:38.926Z",
+    "last_updated": "2026-11-03T20:59:38.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
@@ -569,7 +569,7 @@
       "open_issues": 8,
       "owner": "changh95",
       "repo": "visual-slam-roadmap",
-      "stars": 1818,
+      "stars": 1819,
       "topics": [
         "awesome",
         "awesome-list",
