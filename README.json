@@ -104,7 +104,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1265,
+                "stars": 1266,
                 "topics": [
                   "visual-slam"
                 ]
@@ -123,11 +123,11 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T19:51:02Z",
-                "open_issues": 26,
+                "last_commit": "2026-11-07T18:30:01Z",
+                "open_issues": 28,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1898,
+                "stars": 1899,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -163,7 +163,7 @@
                     "open_issues": 174,
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4261,
+                    "stars": 4260,
                     "topics": [
                       "deep-learning",
                       "feature-matching",
@@ -306,7 +306,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1265,
+                "stars": 1266,
                 "topics": [
                   "visual-slam"
                 ]
@@ -414,7 +414,7 @@
                 "open_issues": 15,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12306,
+                "stars": 12310,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T20:54:20.629Z",
+    "last_updated": "2026-11-07T19:26:12.691Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
