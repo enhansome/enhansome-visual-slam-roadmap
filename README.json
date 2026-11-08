@@ -21,7 +21,7 @@
                 "open_issues": 138,
                 "owner": "ethz-asl",
                 "repo": "kalibr",
-                "stars": 5804,
+                "stars": 5805,
                 "topics": [
                   "calibration",
                   "calibration-toolbox",
@@ -104,7 +104,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1266,
+                "stars": 1267,
                 "topics": [
                   "visual-slam"
                 ]
@@ -127,7 +127,7 @@
                 "open_issues": 28,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1899,
+                "stars": 1900,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -163,7 +163,7 @@
                     "open_issues": 174,
                     "owner": "cvg",
                     "repo": "Hierarchical-Localization",
-                    "stars": 4260,
+                    "stars": 4262,
                     "topics": [
                       "deep-learning",
                       "feature-matching",
@@ -241,7 +241,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5124,
+                    "stars": 5125,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -306,7 +306,7 @@
                 "open_issues": 20,
                 "owner": "stella-cv",
                 "repo": "stella_vslam",
-                "stars": 1266,
+                "stars": 1267,
                 "topics": [
                   "visual-slam"
                 ]
@@ -376,7 +376,7 @@
                 "open_issues": 1,
                 "owner": "KwanWaiPang",
                 "repo": "Awesome-Event-based-SLAM",
-                "stars": 33,
+                "stars": 34,
                 "topics": [
                   "event-camera",
                   "robotics",
@@ -411,10 +411,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-06T16:56:05Z",
-                "open_issues": 15,
+                "open_issues": 21,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12310,
+                "stars": 12318,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -507,7 +507,7 @@
                 "id": 683961471,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-11-02T03:51:42Z",
+                "last_commit": "2026-11-08T04:12:30Z",
                 "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
@@ -533,7 +533,7 @@
                 "id": 683961471,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-11-02T03:51:42Z",
+                "last_commit": "2026-11-08T04:12:30Z",
                 "open_issues": 0,
                 "owner": "changh95",
                 "repo": "slam_lecture_codes",
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T19:26:12.691Z",
+    "last_updated": "2026-11-08T19:41:55.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
@@ -569,7 +569,7 @@
       "open_issues": 8,
       "owner": "changh95",
       "repo": "visual-slam-roadmap",
-      "stars": 1824,
+      "stars": 1825,
       "topics": [
         "awesome",
         "awesome-list",
