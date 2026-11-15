@@ -199,7 +199,7 @@ I made this roadmap to share my thoughts and experience on studying Visual-SLAM,
 
 ### Sensors
 
-* **[Multi-sensor calibration](level-02-getting-familiar/multi-sensor-calibration.md)**: Camera-IMU, Camera-LiDAR ([Kalibr](https://github.com/ethz-asl/kalibr) ⭐ 5,816 | 🐛 138 | 🌐 C++ | 📅 2024-03-30)
+* **[Multi-sensor calibration](level-02-getting-familiar/multi-sensor-calibration.md)**: Camera-IMU, Camera-LiDAR ([Kalibr](https://github.com/ethz-asl/kalibr) ⭐ 5,817 | 🐛 138 | 🌐 C++ | 📅 2024-03-30)
 * **[Camera device](level-02-getting-familiar/camera-device.md)**: Wide/telecentric lens, Lens MTF, CCD/CMOS, Rolling/Global shutter, Exposure/ISO, [Stereo vision](level-01-beginner/stereo-vision.md), [RGB-D](level-04-rgbd-slam/depth-from-sensor.md), [Structured light](level-04-rgbd-slam/depth-from-sensor.md), [Active IR/ToF](level-04-rgbd-slam/depth-from-sensor.md)
 * **[LiDAR](level-02-getting-familiar/lidar.md)** → [Visual-LiDAR fusion](level-09-lidar-visual-lidar-slam/lidar-visual-inertial-lvi.md)
 * **[IMU](level-02-getting-familiar/imu.md)** → VIO
@@ -239,12 +239,12 @@ I made this roadmap to share my thoughts and experience on studying Visual-SLAM,
 | [**ORB-SLAM2**](level-03-monocular-slam/orb-slam2.md)                        | [Mur-Artal 2017](https://arxiv.org/abs/1610.06475)                                                      | → Stereo SLAM, → RGB-D SLAM                                                                                                                                                                                                                                                                                       |
 | [CubeSLAM](level-03-monocular-slam/cubeslam.md)                              | [Yang 2019](https://arxiv.org/abs/1806.00557)                                                           | Monocular 3D cuboid detection + SLAM, 9-DoF object representation                                                                                                                                                                                                                                                 |
 | [OpenVSLAM](level-03-monocular-slam/openvslam.md)                            | [Sumikura 2019](https://arxiv.org/abs/1910.01122)                                                       | ORB-based SLAM framework, perspective/fisheye/equirectangular camera models, map save/load + localization mode                                                                                                                                                                                                    |
-| [**Stella-VSLAM**](level-03-monocular-slam/stella-vslam.md)                  | [Community 2021](https://github.com/stella-cv/stella_vslam) ⭐ 1,268 \| 🐛 20 \| 🌐 C++ \| 📅 2026-08-26 | OpenVSLAM successor, license reboot (→ also in Level 7)                                                                                                                                                                                                                                                           |
+| [**Stella-VSLAM**](level-03-monocular-slam/stella-vslam.md)                  | [Community 2021](https://github.com/stella-cv/stella_vslam) ⭐ 1,269 \| 🐛 20 \| 🌐 C++ \| 📅 2026-08-26 | OpenVSLAM successor, license reboot (→ also in Level 7)                                                                                                                                                                                                                                                           |
 | [UcoSLAM](level-03-monocular-slam/ucoslam.md)                                | [Muñoz-Salinas 2019](https://arxiv.org/abs/1902.03729)                                                  | Fiducial markers                                                                                                                                                                                                                                                                                                  |
 | [DeepFusion](level-03-monocular-slam/deepfusion.md)                          | [Laidlow 2019](https://arxiv.org/abs/2207.12244)                                                        | Dense monocular reconstruction, semi-dense MVS + CNN depth/gradient predictions, probabilistic fusion with learned uncertainties                                                                                                                                                                                  |
 | [**ORB-SLAM3**](level-03-monocular-slam/orb-slam3.md)                        | [Campos 2020](https://arxiv.org/abs/2007.11898)                                                         | Monocular + Stereo + VIO, Multi-map, IMU integration                                                                                                                                                                                                                                                              |
 | [DXSLAM](level-03-monocular-slam/dxslam.md)                                  | [Li 2020](https://arxiv.org/abs/2008.05416)                                                             | Deep features for SLAM                                                                                                                                                                                                                                                                                            |
-| [**PyCuVSLAM**](level-03-monocular-slam/pycuvslam.md)                        | [NVIDIA 2025](https://github.com/NVlabs/pycuvslam) ⭐ 1,905 \| 🐛 34 \| 🌐 C++ \| 📅 2026-11-14          | Python + CUDA GPU-accelerated VSLAM toolkit (cuVSLAM wrapper; stereo/multi-camera VIO)                                                                                                                                                                                                                            |
+| [**PyCuVSLAM**](level-03-monocular-slam/pycuvslam.md)                        | [NVIDIA 2025](https://github.com/NVlabs/pycuvslam) ⭐ 1,905 \| 🐛 32 \| 🌐 C++ \| 📅 2026-11-15          | Python + CUDA GPU-accelerated VSLAM toolkit (cuVSLAM wrapper; stereo/multi-camera VIO)                                                                                                                                                                                                                            |
 
 ### Direct SLAM
 
@@ -418,7 +418,7 @@ I made this roadmap to share my thoughts and experience on studying Visual-SLAM,
 | [**ACE Zero**](level-05-deep-learning/ace-zero.md)                                           | [Brachmann 2024](https://arxiv.org/abs/2404.14351)                                                              | Zero-shot SCR, no pre-built 3D map needed                                                    |
 | [**ACE-G**](level-05-deep-learning/ace-g.md)                                                 | [Bruns 2025](https://arxiv.org/abs/2510.11605)                                                                  | Generalizable SCR via query pretraining, new scenes without fine-tuning                      |
 | [**ACE-SLAM**](level-05-deep-learning/ace-slam.md)                                           | [Alzugaray 2025](https://arxiv.org/abs/2512.14032)                                                              | Neural implicit real-time SLAM, network weights = map                                        |
-| [**hloc**](level-05-deep-learning/hloc.md)                                                   | [Sarlin 2019](https://github.com/cvg/Hierarchical-Localization) ⭐ 4,267 \| 🐛 174 \| 🌐 Python \| 📅 2025-12-10 | Toolbox implementing HF-Net's hierarchical localization: coarse (NetVLAD) → fine (SuperGlue) |
+| [**hloc**](level-05-deep-learning/hloc.md)                                                   | [Sarlin 2019](https://github.com/cvg/Hierarchical-Localization) ⭐ 4,268 \| 🐛 174 \| 🌐 Python \| 📅 2025-12-10 | Toolbox implementing HF-Net's hierarchical localization: coarse (NetVLAD) → fine (SuperGlue) |
 
 #### Object Detection & Segmentation for SLAM
 
@@ -444,7 +444,7 @@ I made this roadmap to share my thoughts and experience on studying Visual-SLAM,
 | [**DROID-SLAM**](level-05-deep-learning/droid-slam.md) | [Teed 2021](https://arxiv.org/abs/2108.10869)                                                    | Dense optical flow + differentiable dense BA, all-pixels reprojection |
 | [**DPVO**](level-05-deep-learning/dpvo.md)             | [Teed 2023](https://arxiv.org/abs/2208.04726)                                                    | Patch-based DROID-SLAM, 30+ FPS real-time                             |
 | [**Theseus**](level-05-deep-learning/theseus.md)       | [Pineda (Meta) 2022](https://arxiv.org/abs/2207.09442)                                           | Differentiable nonlinear optimization library (PyTorch)               |
-| [**Lietorch**](level-05-deep-learning/lietorch.md)     | [Teed 2021](https://github.com/princeton-vl/lietorch) ⭐ 858 \| 🐛 32 \| 🌐 Cuda \| 📅 2025-05-10 | Lie group operations for PyTorch (SE(3)/SO(3))                        |
+| [**Lietorch**](level-05-deep-learning/lietorch.md)     | [Teed 2021](https://github.com/princeton-vl/lietorch) ⭐ 858 \| 🐛 33 \| 🌐 Cuda \| 📅 2025-05-10 | Lie group operations for PyTorch (SE(3)/SO(3))                        |
 
 ### C. End-to-End Deep VO / SLAM Systems
 
@@ -638,7 +638,7 @@ I made this roadmap to share my thoughts and experience on studying Visual-SLAM,
 | [**StereoMSCKF**](level-07-stereo-slam/stereomsckf.md)         | [Sun 2018](https://arxiv.org/abs/1712.00036)                                                            | MSCKF with stereo, efficient for resource-constrained platforms                       |
 | [**RTAB-Map**](level-04-rgbd-slam/rtab-map.md)                 | [Labbé 2019](https://ieeexplore.ieee.org/document/6942560)                                              | Multi-sensor (stereo/RGB-D/LiDAR), memory management, large-scale (→ also in Level 4) |
 | [**ORB-SLAM3**](level-03-monocular-slam/orb-slam3.md) (stereo) | [Campos 2020](https://arxiv.org/abs/2007.11898)                                                         | Multi-map, Atlas, stereo + IMU                                                        |
-| [**Stella-VSLAM**](level-03-monocular-slam/stella-vslam.md)    | [Community 2021](https://github.com/stella-cv/stella_vslam) ⭐ 1,268 \| 🐛 20 \| 🌐 C++ \| 📅 2026-08-26 | OpenVSLAM successor, stereo support (→ also in Level 3)                               |
+| [**Stella-VSLAM**](level-03-monocular-slam/stella-vslam.md)    | [Community 2021](https://github.com/stella-cv/stella_vslam) ⭐ 1,269 \| 🐛 20 \| 🌐 C++ \| 📅 2026-08-26 | OpenVSLAM successor, stereo support (→ also in Level 3)                               |
 | [**Stereo DSO**](level-07-stereo-slam/stereo-dso.md)           | [Wang 2017](https://arxiv.org/abs/1708.07878)                                                           | Direct sparse stereo odometry, large-scale (DSO extension)                            |
 
 ***
@@ -720,7 +720,7 @@ I made this roadmap to share my thoughts and experience on studying Visual-SLAM,
 | Resource                                                                                                          | Author/Year                                      | Key Concepts                                    |
 | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------- |
 | [**Event-based Vision Survey**](level-10-event-camera-slam/event-based-vision-survey.md)                          | [Gallego 2020](https://arxiv.org/abs/1904.08405) | Comprehensive survey of event camera algorithms |
-| [Awesome-Event-based-SLAM](https://github.com/KwanWaiPang/Awesome-Event-based-SLAM) ⭐ 34 \| 🐛 1 \| 📅 2026-01-18 | KwanWaiPang                                      | Curated GitHub list of event-based SLAM papers  |
+| [Awesome-Event-based-SLAM](https://github.com/KwanWaiPang/Awesome-Event-based-SLAM) ⭐ 34 \| 🐛 0 \| 📅 2026-11-15 | KwanWaiPang                                      | Curated GitHub list of event-based SLAM papers  |
 
 ### Systems
 
@@ -751,7 +751,7 @@ I made this roadmap to share my thoughts and experience on studying Visual-SLAM,
 | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 | [**GAIA-1**](level-11-world-models-spatial-ai/gaia-1.md)                         | [Wayve 2023](https://arxiv.org/abs/2309.17080)                                     | Driving World Model, action-conditioned future scene generation                       |
 | [**Sora / DiT**](level-11-world-models-spatial-ai/sora-dit.md)                   | [OpenAI 2024](https://openai.com/index/sora/)                                      | Diffusion Transformer, spacetime patches, emergent 3D understanding                   |
-| [**NVIDIA Cosmos**](level-11-world-models-spatial-ai/nvidia-cosmos.md)           | [NVIDIA 2025](https://github.com/NVIDIA/Cosmos) ⭐ 12,366 \| 🐛 14 \| 📅 2026-11-11 | World Foundation Model platform for Physical AI, synthetic data for AV/robots         |
+| [**NVIDIA Cosmos**](level-11-world-models-spatial-ai/nvidia-cosmos.md)           | [NVIDIA 2025](https://github.com/NVIDIA/Cosmos) ⭐ 12,369 \| 🐛 14 \| 📅 2026-11-11 | World Foundation Model platform for Physical AI, synthetic data for AV/robots         |
 | [**World Labs / Marble**](level-11-world-models-spatial-ai/world-labs-marble.md) | [Fei-Fei Li 2025](https://www.worldlabs.ai/)                                       | Generative 3D worlds (persistent Gaussian-splat scenes) from image/video/text prompts |
 | [**WorldVLA**](level-11-world-models-spatial-ai/worldvla.md)                     | [Cen (Alibaba) 2025](https://arxiv.org/abs/2506.21539)                             | Autoregressive action world model, learns physics for action generation               |
 | [**SceneDINO**](level-11-world-models-spatial-ai/scenedino.md)                   | [Jevtić 2025](https://arxiv.org/abs/2507.06230)                                    | Feed-forward unsupervised semantic scene completion                                   |
@@ -859,4 +859,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
