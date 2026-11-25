@@ -54,7 +54,7 @@
                 "open_issues": 4,
                 "owner": "MichaelGrupp",
                 "repo": "evo",
-                "stars": 4369,
+                "stars": 4371,
                 "topics": [
                   "benchmark",
                   "euroc",
@@ -123,11 +123,11 @@
                 "id": 905946140,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-24T14:30:09Z",
-                "open_issues": 35,
+                "last_commit": "2026-11-25T23:15:38Z",
+                "open_issues": 36,
                 "owner": "nvidia-isaac",
                 "repo": "cuVSLAM",
-                "stars": 1927,
+                "stars": 1930,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -241,7 +241,7 @@
                     "open_issues": 4,
                     "owner": "manycore-research",
                     "repo": "SpatialLM",
-                    "stars": 5170,
+                    "stars": 5171,
                     "topics": [
                       "mllm",
                       "point-clouds",
@@ -411,10 +411,10 @@
                 "language": null,
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-19T05:20:52Z",
-                "open_issues": 14,
+                "open_issues": 15,
                 "owner": "NVIDIA",
                 "repo": "cosmos",
-                "stars": 12449,
+                "stars": 12463,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:01:10.435Z"
@@ -557,7 +557,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:53:50.950Z",
+    "last_updated": "2026-11-25T23:37:11.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "Roadmap to become a Visual-SLAM developer in 2026",
@@ -569,7 +569,7 @@
       "open_issues": 8,
       "owner": "changh95",
       "repo": "visual-slam-roadmap",
-      "stars": 1831,
+      "stars": 1832,
       "topics": [
         "awesome",
         "awesome-list",
